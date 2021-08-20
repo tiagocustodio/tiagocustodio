@@ -3,7 +3,8 @@
 ##
 
 - 🔭 Hoje trabalho com VBA e PowerBI
-- 🌱 Eu estou estudando Ciência de Dados
+- 👨‍🎓 Sou formado em Gestão de TI
+- 🧑‍💻 Hoje estou estudando Big Data e Inteligência Analítica
 ##
 
  <div>

@@ -35,4 +35,4 @@
  
 </div>
   
-<img src="https://komarev.com/ghpvc/?username=tiagocustodio&color=green" alt="tiagocustodio" />  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+<img src="https://komarev.com/ghpvc/?username=tiagocustodio&color=green" alt="tiagocustodio" />  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/tiagocustodio/tiagocustodio)

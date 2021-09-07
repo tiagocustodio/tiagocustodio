@@ -2,10 +2,10 @@
 
 ##
 
-- 🔭 Hoje trabalho com VBA e PowerBI
-- 👨‍🎓 Sou formado em Gestão de TI
-- 🧑‍💻 Hoje estou estudando Big Data e Inteligência Analítica
-- 🏆 Campeão da "Batalhas de Dados 2021" da Shawee
+- 👩‍💻 Atualmente trabalho com VBA e PowerBI.
+- 👨‍🎓 Sou formado em Gestão de TI.
+- 🧑‍💻 Hoje estou estudando Big Data e Inteligência Analítica.
+- 🏆 Campeão da "Batalhas de Dados 2021" da Shawee.
 ##
 
  <div>

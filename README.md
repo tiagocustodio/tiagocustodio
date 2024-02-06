@@ -2,9 +2,9 @@
 
 ##
 
-- 👩‍💻 Atualmente trabalho com VBA e PowerBI.
-- 👨‍🎓 Sou formado em Gestão de TI.
-- 🧑‍💻 Hoje estou estudando Big Data e Inteligência Analítica.
+- 👩‍💻 Atualmente trabalho com PowerBI, SQL e AWS.
+- 👨‍🎓 Sou formado em Gestão de TI e Big Data e Inteligência Analítica.
+- 🗺️ Intercambio de Inglês em CapeTown - Africa do Sul.
 - 🏆 Campeão da "Batalhas de Dados 2021" da Shawee.
 ##
 

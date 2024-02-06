@@ -2,7 +2,7 @@
 
 ##
 
-- 👩‍💻 Atualmente trabalho com PowerBI, SQL e AWS.
+- 👩‍💻 Atualmente trabalho com PowerBI, SQL, Python e AWS.
 - 👨‍🎓 Sou formado em Gestão de TI e Big Data e Inteligência Analítica.
 - 🗺️ Intercambio de Inglês em CapeTown - Africa do Sul.
 - 🏆 Campeão da "Batalhas de Dados 2021" da Shawee.
@@ -18,9 +18,6 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-R" height="30" width="60" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Tiago-Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Tiago-HTML5" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Tiago-CSS3" height="30" width="90" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Tiago-PHP" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 ###
   
@@ -41,7 +38,6 @@
 <div> 
   <img align="center" alt="Azure" alt="Tiago-AZURE" height="30" width="90" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
  <img align="center" alt="AWS" alt="Tiago-AWS" height="30" width="80" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
- <img align="center" alt="Oracle" alt="Tiago-AWS" height="30" width="100" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
  
   ![Snake animation](https://github.com/tiagocustodio/tiagocustodio/blob/output/github-contribution-grid-snake.svg)
  
